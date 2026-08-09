@@ -37,3 +37,7 @@ The Four Seasons, Stage Presence, and Christmas Carol case slides currently show
 ---
 
 Built by [Agile Lens](https://www.agilelens.com) · info@agilelens.com
+
+## Support
+
+If you like seeing this kind of thing get built and shared, [donations are always welcome](https://www.alexcoulombepresents.com/support) — they buy hardware, render time, and the freedom to keep giving most of this away.
